@@ -65,12 +65,13 @@ Geen epicykels meer!
 
 Blijkbaar is de maan niet perfect.
 
-Wiskunde toepassen op aarde objecten en fenomenen. 
+Wiskunde toepassen op aardse objecten en fenomenen. 
 
 Gebruik van experimenten.
 
-Nieuwe ideeën in strijd met de kerk -> Vervolging. Volgens Galilie niet.
-Wiskunde is de taal van god. Bijbel in mensen woorden.
+Nieuwe ideeën in strijd met de kerk -> Vervolging. 
+
+Volgens Galilie niet, wiskunde is de taal van god. Bijbel is slechts in mensen woorden.
 
 ## De mechanisering van de fysica
 Natuur is een grote machine. 
@@ -86,6 +87,7 @@ Algebra en symbolen zijn leuk!
 
 ## Een nieuwe wetenschap van de natuur
 Verschil tussen grieken en Revolutie
+
 - Theorieën geschreven in wiskundige symbolen
 - Experimenteel bevestigd, andere experimenten voorspellen
 - Vroeger: Natuurlijke plaats (zo hoort het) <-> Nu bepaalt door krachten
