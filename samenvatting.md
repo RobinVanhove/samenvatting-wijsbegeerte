@@ -233,11 +233,12 @@ Een niet ledige, eindige en consistente verzameling van observatie zinnen $\Gamm
 ### Het Quine-Duhem probleem
 We willen uit een aantal observatiezinnen en een consistente verzameling hulphypothese de negatie van een hoofdhypothese afleiden.
 $$ (O_1 \wedge ... \wedge O_n \wedge A_1 \wedge ... \wedge A_m) \models \neg H $$
-Dan is de vrzameling $\{O_1, ..., O_n, A_1, ... A_m, H\}$ inconsitent. Dus
+Dan is de verzameling $\{O_1, ..., O_n, A_1, ... A_m, H\}$ inconsitent. Dus
 $$ \models \neg (O_1 \wedge ... \wedge O_n \wedge A_1 \wedge ... \wedge A_m \wedge H )$$
 Uit een van de wetten van de Morgan halen halen we dat
 $$ \models (\neg O_1 \vee ... \vee\neg O_n \vee\neg A_1 \vee ... \vee\neg A_m \vee\neg H )$$
 Waaruit we besluiten dat ofwel
+
 - De hoofdhypothese is onwaar
 - minstens een van de hulphypothese is onwaar
 - minstens een van de observatiezinnen is onwaar
