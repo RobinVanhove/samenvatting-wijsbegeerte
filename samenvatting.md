@@ -284,7 +284,7 @@ De meeste mensen geloven deze stellingen niet. Wat is het verschil met de vorige
 ## Inductie en confirmatie
 __De hypothetisch-deductieve theorie van confirmatie.__ Stel dat $\Gamma$ een niet ledige, eindige, consistente verzameling van observatie zinnen is en $\Delta$ een consistente verzameling van hulphypothese en $\phi$ een zin
 
-- $\phi$ wordt geconfirmeerd door $\Gamma$ ten opzichte van $\Delta$ asa $\{\phi\}\cup\Delta\models\psi$ voor alle $\psi \in \Delta$
+- $\phi$ wordt geconfirmeerd door $\Gamma$ ten opzichte van $\Delta$ asa $\{\phi\}\cup\Delta\models\psi$ voor alle $\psi \in \Gamma$
 - $\phi$ wordt gedisconfirmeerd door $\Gamma$ ten opzichte van $\Delta$ asa $\Gamma\cup\Delta\models\neg\phi$
 
 Enkele problemen met de hypothetisch-deductieve theorie van confirmatie.
