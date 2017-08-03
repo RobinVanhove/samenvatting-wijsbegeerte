@@ -5,7 +5,32 @@ date: Juni 2017
 toc: true
 numbersections: true
 geometry: margin=2cm
+header-includes:
+    \usepackage[dutch]{babel}
+    \usepackage{graphicx}
+    \usepackage{subcaption}
+    \usepackage[
+	type={CC},
+	modifier={by-nc-sa},
+	version={4.0},
+    ]{doclicense}
 ---
+
+# {-}
+
+Samenvatting voor de OPO wijsbegeerte.
+
+Broncode op 
+
+> <https://github.com/RobinVanhove/samenvatting-wijsbegeerte>
+
+\vfill
+\hfill Versie \input{VERSION.txt}
+
+\hfill Gecompileerd op \today
+\doclicenseThis
+\clearpage
+
 
 # Natuurfilosofie bij de Grieken
 ## Opkomst van de natuurfilosofie
