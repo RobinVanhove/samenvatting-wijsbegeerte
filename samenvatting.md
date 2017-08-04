@@ -22,7 +22,7 @@ Samenvatting voor de OPO wijsbegeerte.
 
 Broncode op 
 
-> <https://github.com/RobinVanhove/samenvatting-wijsbegeerte>
+    https://github.com/RobinVanhove/samenvatting-wijsbegeerte
 
 \vfill
 \hfill Versie \input{VERSION.txt}
@@ -35,19 +35,20 @@ Broncode op
 # Natuurfilosofie bij de Grieken
 ## Opkomst van de natuurfilosofie
 Mythe: verteld hoe de wereld is ontstaan.
+
 Plek in de wereld begrijpen.
 
 ### De-mythologisering
 Op zoek naar een rationeel vrantwoorde uiteenzetting.
 Verwerpen oude traditionele en religieuze verklaringen.
 
-De natuur kan verklaard worden met enkele principes die geen geheimen van de goden zijn.
-Dus begrijpbaar door mensen.
+De natuur kan verklaard worden met enkele principes (Archai) die geen geheimen van de goden zijn.
+Dus begrijpbaar door mensen (logos).
 
 Verschil met oude grieken en nu:
 
 - Geen experimenten of instrumenten
-- Wiskunde volgens grieken enkel toepasbaar op 'hemelse'
+- Wiskunde volgens grieken enkel toepasbaar op 'hemelse', dus geen exacte formulering van wat er op aarde gebeurt.
 
 ### Griekse natuurfilosofen
 Alle deeltjes bestaan uit een __oerstof__ 
@@ -65,6 +66,9 @@ Alle deeltjes bestaan uit een __oerstof__
 Kosmische orde begrijpen met wiskunde.
 
 ## Het Aristotelische wereldbeeld
+Aristotoles is een leerling van Plato die verder bouwde op Socrates & Plato.
+Hij ontwikkelde zijn egen filosofie, het Aristotelianisme.
+
 __Geocentrisme__: Aarde in het centrum van het universum
 
 __Hemellichamen zijn perfecte bollen die in cirkels draaien rond de aarde__
@@ -75,20 +79,34 @@ Contrast: Hemelse <-> ondermaanse
 
 Opvallend: Observaties en speculatie over de natuur
 
+speculatie: ether
+
+observatie:
+
+- zware lichamen vallen sneller
+- natuurlijke toestand = rust
+
 Astronomie door wiskunde ontwikkeld.
 Observatie dat hemellichamen niet perfect rond aarde draaien werd verklaard met __epicykels__ (cirkles rond cirkels)
+
+Bleef lang dominant door vermenging met katholieke leer.
 
 # De wetenschappelijke revolutie
 ## Het ontstaan van de moderne wetenschap
 Gebruik van nieuwe uitvindingen: Telescoop & Microscoop. 
 
-Geocentrische vervangen door __heliocentrisme__ (aarde draait rond de zon)
+Copernicus: Geocentrische vervangen door __heliocentrisme__ (aarde draait rond de zon)
 
 Kepler: De planeten bewegen zich in een ellips met de zon en een van de twee foci (brandpunten).
 
 Geen epicykels meer!
 
-Blijkbaar is de maan niet perfect.
+Galileo Galilei: 
+
+- Blijkbaar is de maan (en andere hemellichamen) niet perfect.
+- Blijkbaar zijn er andere manen rond andere lichamen.
+- Blijkbaar vallen zware lichamen even snel als lichte.
+- Blijkbaar gaan lichamen aan een cte snelheid als er gen kracht op inwerkt.
 
 Wiskunde toepassen op aardse objecten en fenomenen. 
 
@@ -96,19 +114,37 @@ Gebruik van experimenten.
 
 Nieuwe ideeën in strijd met de kerk -> Vervolging. 
 
-Volgens Galilie niet, wiskunde is de taal van god. Bijbel is slechts in mensen woorden.
+Volgens Galilei niet, wiskunde is de taal van god. Bijbel is slechts in mensen woorden.
+
+Hoogte punt wetenschappelijke revolutie: werk van Newton.
+
+- Wetten van Newton
+- Wet van zwaartekracht -> Basis mechanica
+- Differentiaal- en intergraalrekenen (ook door Leibniz)
+
+De wetten an Kepler en Galilei konden uit de wetten Newton afgeleid worden!
 
 ## De mechanisering van de fysica
+Natuur bij grieken (Aristotoles): Geheel van dingen die uit zichzelf een beweging of een proces van verandering op gang kunnen brengen.
+
+Mechanica niet natuurlijk, dus geen natuurkunde. Vanaf nu geen verschil
+
 Natuur is een grote machine. 
 
 Fysica belangrijk voor de industrie. 
 
 Natuur begrijpen en beheersen.
 
-Bij grieken: Mechanica niet natuurlijk, dus geen natuurkunde. Vanaf nu geen verschil
+Ook onderscheid _natuurlijk_ & _kunstmatig_ valt weg.
+
+Begin 17e eeuw worden natuurlijke stoffen kunstmatig gemaakt.
 
 ## Universele wiskunde
 Algebra en symbolen zijn leuk!
+
+Descartes: analytische meetkunde ook!
+
+Aristoteles was fout: er is geen wiskundig verschil tussen hemelse (volmaakte) en het ondermaanse.
 
 ## Een nieuwe wetenschap van de natuur
 Verschil tussen grieken en Revolutie
@@ -116,8 +152,6 @@ Verschil tussen grieken en Revolutie
 - Theorieën geschreven in wiskundige symbolen
 - Experimenteel bevestigd, andere experimenten voorspellen
 - Vroeger: Natuurlijke plaats (zo hoort het) <-> Nu bepaalt door krachten
-
-
 
 # Inleiding: Wetenschappelijk redeneren
 ## Argumenten
@@ -147,16 +181,38 @@ Naarmate er meer gevallen onderzocht worden is een de conclusie van een inductie
 
 Een argument is goed asa de conclusie meer waarschijnlijk is gegeven de premissen dan op zichzelf.
 
+__Abductie__ Gegeven een aantal premissen & alternatieve verklaringen voor
+de premissen, neem de verklaring die beste verklaring biedt voor de premissen
+
+Inductieve en abductieve argumenten zijn niet-deductief en dus niet logisch geldig
+
+
 ## Wetenschapsidealen
 Wetenschappelijk redeneren: inductie en abductie centraal
 
 ### De axiomatische methode
 __Axioma__: Een bewering die als grondslag aanvaard wordt
 
-Verder oude grieken ofzo
+Sinds Euclides is axiomatisering een ideaal in de wiskunde.
+
+Maar oude logica schoot tekort voor het werk van Euclides, logica stond nog in zijn kinderschoenen. Later (19e eeuw) bleken er ook deductieve gaten in zijn werk te zitten. Niet alle stellingen volgde logisch uit de axioma's.
+
+De huidige wiskundige theorieën zijn geaxiomatiseerde eerste-orde theorieën. bv. verzamelingenleer
+
+Euclidische meetkunde is al eeuwenlang een wetenschappelijk ideaal. De wetenschap gaat deductief te werk en er wordt een axiomatische methode gevolgd.
+
+Axioma's kunnen niet deductief gerechtvaardigd worden, wel inductief.
 
 ### Newton over experimentele filosofie
-Blah blah Regeltjes van newton
+Vier regels, de Rules of reasoning in Philosophy. Waarbij Philosophy de natuurkunde is.
+
+1. Verklaringen, oorzaken, gevolgen en eenvoud
+    - Afleiding (abductie) is de beste verklaring
+2. Verklaringen hebben te maken oorzaken & eenvoud (= criterium voor verklaringen)
+3. Betrekken op inductie
+    - bv. Wetten van Kepler is een inductieve generalisatie op basis van waarnemingen
+4. Toch grote plaats voor deductief werk van Newton
+    - bv. wetten van Newton
 
 # Deductie
 ## Zinslogica
@@ -217,6 +273,9 @@ $$ \forall\phi \rightarrow \phi[t/b] $$
 $$ \phi[t/b] \rightarrow \exists x \phi$$
 
 ## Directe Verificatie en falsificatie
+Wetenschappelijke hypotheses zijn geen logische waarheden. Het is mogelijk om logica te gebruiken om op basis van observaties te bepalen of een
+hypothese waar of onwaar is.
+
 ### obervatiezinnen
 __observatiezinnen__ Een zin die een mogelijke observatie beschrijft.
 Kan onwaar zijn.
