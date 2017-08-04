@@ -283,7 +283,7 @@ Kan onwaar zijn.
 - Roses are red
 - Violets are blue
 
-### Directe verificatie en falsificatie
+### Directe verificatie en Falsificatie
 __Directe verificatie__ De existentiële generalisatie ($\exists x\phi$) wordt geverifieerd als $\phi[t/v]$ een ware observatie zin is.
 
 __Directe falsificatie__ De universele generalisatie  ($\forall x\phi$) wordt gefalsifieerd als $\phi[t/v]$ onwaar is.
@@ -332,7 +332,16 @@ Men kan met logica niet bepalen waar de fout ligt.
 ### Ad hoc hypotheses
 Een hypothese is __ad hoc__ asa ze enkel en alleen naar voren geschoven wordt om bij de indirecte falsificatie van een hoofdhypothese te kunnen concluderen dat een van de hulphypothese fout is.
 
+Voorbeeld: Flogiston
+
+Bij verbranding verdwijnen substanties. Theorie was dat een stof _flogiston_ vrijkomt.
+Maar metalen krijgen extra massa als ze verbranden!
+
+Ad hoc hypothese: twee soorten flogiston, een met positieve en een met negatieve massa.
+
 ## Voorbij deductie?
+Existentiële generalisaties zijn niet direct falsifieerbaar en universele generalisaties niet direct verifieerbaar. Er kan niet deductief geredeneerd worden, andere vormen van redeneren is
+nodig.
 
 # Inductie en waarschijnlijkheid
 ## Twee problemen in verband met inductie
