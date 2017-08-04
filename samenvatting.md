@@ -19,6 +19,7 @@ header-includes:
 # {-}
 
 Samenvatting voor de OPO wijsbegeerte.
+Aangevuld met de samenvatting van Aram.
 
 Broncode op 
 
