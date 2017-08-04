@@ -19,7 +19,7 @@ header-includes:
 # {-}
 
 Samenvatting voor de OPO wijsbegeerte.
-Aangevuld met de samenvatting van Aram.
+Aangevuld met de samenvatting van Aram Khachaturyan. 
 
 Broncode op 
 
@@ -238,8 +238,6 @@ __Structuur__: Waarde 0 of 1 toekennen aan zinnen.
 
 $|\phi|_A$ is De waarde van $\phi$ in de structuur $A$.
 
-[Comment]: <> (_ Comment to fix syntax latex math leaving underscore unclosed)
-
 ### De waarheidstafelmethode
 ...
 
@@ -350,18 +348,34 @@ nodig.
 __Vork van Hume__ twee types redeneringen
 
 - deductieve bewijzen
-- Inductieve rdeneringen, waarschijnlijke redeneringen, redeneringen op basis van observaties uit het verleden
+- Inductieve redeneringen, waarschijnlijke redeneringen, redeneringen op basis van observaties uit het verleden
     - Neemt aan dat de natuur uniform is
 
-#. Tenzij er een reden is om aan te nemen dat de natuur uniform is, is er geen reden om geloof te hechten aan conclusies uit inductieve redeneringen.
-#. Er is geen reden om de aanname te geloven op basis van een deductief bewijs, aangezien de negatie van de aanname (de bewering dat de natuur niet uniform is) logisch consistent is.
-#. Er is geen reden om de aanname te geloven op basis van een inductief argument, omdat dat circulair zou zijn - zie premisse 1.
+Of zoals wikipeida het stelt:
+
+> David Hume divided knowledge into two categories “relations of ideas” (deductieve bewijzen), and “matters of fact”(inductieve bewijzen). Relations of ideas are truthful and correct statements (for example “all unmarried men are bachelors”. Matters of fact are statements we are nearly certain are truthful but there is still a chance for it to be false: “the sun will rise in the morning”: there is a chance it will not rise. ^[https://simple.wikipedia.org/wiki/Hume%27s_fork]
+
+De redenering:
+
+1. Tenzij er een reden is om aan te nemen dat de natuur uniform is, is er geen reden om geloof te hechten aan conclusies uit inductieve redeneringen.
+2. Er is geen reden om de aanname te geloven op basis van een deductief bewijs, aangezien de negatie van de aanname (de bewering dat de natuur niet uniform is) logisch consistent is.
+3. Er is geen reden om de aanname te geloven op basis van een inductief argument, omdat dat circulair zou zijn - zie premisse 1.
     - Geloof in het principe van uniformiteit op basis van een inductief argument is circulair.
-#. Als er geen reden is om geloof te hechten aan de aanname op basis van een deductief of inductief argument, dan is er geen reden om geloof te hechten aan de aanname.
-#. De aanname is dus niet gerechtvaardigd.
-#. Dus er is geen reden om geloof the hecthen aan de conclusies van inductieve redeneringen.
+4. Als er geen reden is om geloof te hechten aan de aanname op basis van een deductief of inductief argument, dan is er geen reden om geloof te hechten aan de aanname.
+5. De aanname is dus niet gerechtvaardigd.
+6. Dus er is geen reden om geloof the hechten aan de conclusies van inductieve redeneringen.
+
+
+Geloof in het principe van uniformiteit op basis van een inductief argument is circulair. bv.
+
+- Tot nu toe was de natuur altijd uniform
+- Dus de natuur zal uniform blijven
+
+Dit is argument maakt ook gebruik van een uniformiteitsaanname.
 
 ### Het nieuwe raadsel van Goodman
+
+Waarnemingen die tot nu toe gedaan zijn kunnen niet helpen de toekomst te voorspellen.
 
 - Alle smaragden tot nu toe waargenomen zijn groen
 - Dus alle smaragden zijn groen
@@ -408,7 +422,7 @@ Lees $P(\phi|\psi)$ als de kans van $\phi$ gegeven $\psi$
 
 __Bayens.__ $P(\phi|\psi) = P(\psi|\phi) \cdot \frac{P(\psi)}{P(\psi)}$ 
 
-__Conditionele waarschijnlijkheid en geldigheid__ Als $\phi \models \psi$ en $0< P(\phi)$ dan $P(\psi|\phi) = 1$. 
+__Conditionele waarschijnlijkheid en geldigheid__ Als $\phi \models \psi$ en $0 < P(\phi)$ dan $P(\psi|\phi) = 1$. 
 
 ## Interpretatie van waarschijnlijkheid
 Ook de frequentistische interpretatie.
@@ -449,9 +463,7 @@ De __Bayensiaanse theorie__ heeft twee principes, de eerste werd in de vorige se
 __Synchronische coherentie.__ Op elk tijdstip moeten de graden van overtuiging veoldoen aan Kolmogrov. 
 
 __Diachronische coherentie.__ 
-Op tijd $t_1$ zijn de graden van overtuiging van een subject gelijk aan $P_1$. Op $t_2$ veranderd de graad van overtuiging in $E$ naar 1. De graden van overtuiging op $t_2$ worden gepresenteerd door $P_2$ die verschilt van $P_1$ door: $P_2(H) = P_1(H|E)$ (indien $P_1 (E) > 0$) voor alle zinnen H.[^1]
-
-[^1]: Letterlijk uit de samenvatting van Aram Khachaturyan. 
+Op tijd $t_1$ zijn de graden van overtuiging van een subject gelijk aan $P_1$. Op $t_2$ veranderd de graad van overtuiging in $E$ naar 1. De graden van overtuiging op $t_2$ worden gepresenteerd door $P_2$ die verschilt van $P_1$ door: $P_2(H) = P_1(H|E)$ (indien $P_1 (E) > 0$) voor alle zinnen H.
 
 __Probabilistsiche (dis)confirmatie.__ Als $P(E) > 0$ dan
 
@@ -635,3 +647,4 @@ Het axiomatiseringsproject, alle wiskundige theorieën axiometiseren. Men wil ee
 __Eerst onvolledigheidsstellingen.__ Geen enkele axiometiseerbare extensie van de minimale rekenkunde is volledig.
 
 Dus er kan geen 1 theorie zijn die alles bewijst.
+
