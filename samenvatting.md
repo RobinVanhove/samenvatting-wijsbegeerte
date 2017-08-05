@@ -398,7 +398,7 @@ __De hypothetisch-deductieve theorie van confirmatie.__ Stel dat $\Gamma$ een ni
 Enkele problemen met de hypothetisch-deductieve theorie van confirmatie.
 
 1. Stelt disconfirmatie gelijk aan falsificatie dus het Quine-Duhem probleem.
-2. Confirmatie spiegelt inductie dus problemen met inductie sollen zich voor.
+2. Confirmatie spiegelt inductie dus problemen met inductie stellen zich voor.
  
 bv. Gruesome proobleem wordt geconfirmeerd met experiment in 2017.
 
@@ -460,15 +460,34 @@ Problemen met deze interpretatie zijn
 ## De Bayesiaanse confirmatietheorie
 De __Bayensiaanse theorie__ heeft twee principes, de eerste werd in de vorige sectie besproken. 
 
-__Synchronische coherentie.__ Op elk tijdstip moeten de graden van overtuiging veoldoen aan Kolmogrov. 
+__Synchronische coherentie.__ Op elk tijdstip moeten de graden van overtuiging voldoen aan Kolmogrov. 
 
 __Diachronische coherentie.__ 
 Op tijd $t_1$ zijn de graden van overtuiging van een subject gelijk aan $P_1$. Op $t_2$ veranderd de graad van overtuiging in $E$ naar 1. De graden van overtuiging op $t_2$ worden gepresenteerd door $P_2$ die verschilt van $P_1$ door: $P_2(H) = P_1(H|E)$ (indien $P_1 (E) > 0$) voor alle zinnen H.
+
+__Coördinatieprincipe.__ Als een hypothese H stelt dat de proportie van E gelijk is aan _x_, dan stellen we onze graad van overtuiging in E gegeven H gelijk aan _x_.
+
+__Subjectieve totale waarschijnlijkheid.__ Als $\psi_1, ..., \psi_n$ paarsgewijs logisch inconsistente verzameling vormen en als $P(\psi_1 \vee ... \vee \psi_n) = 1$ dan
+$P(\phi) = (P(\phi|\psi_1) \times P(\psi_1)) + ... + (P(\phi|\psi_n) \times P(\psi_n))$
+
+Dit wil zeggen dat van de disjuntie $(\psi_1 \vee ... \vee \psi_n)$ gelijk is aan 1.
+De persoon is er dus van overtuigt dat minstens een zin waar is.
 
 __Probabilistsiche (dis)confirmatie.__ Als $P(E) > 0$ dan
 
 - confirmeert E H $\Leftrightarrow P(H|E) > P(E)$
 - disconfirmeert E H $\Leftrightarrow P(H|E) < P(E)$
+
+__De hypothetisch-deductieve theorie is een speciaal geval van BCT__ als,
+
+1. $H, A \models E$ waarbij A een hulphypothese is
+2. $1 > P(H|A) > 0$
+2. $1 > P(E|A) > 0$
+
+Dan geldt
+
+1. $P(H|E\wedge A) > P(H|A)$
+2. $P(H|\neg E\wedge A) < P(H|A)$
 
 ## Waarschijnlijkheid en inductie
 Volgens Bayesiaanse theorie is de kans dat de Humeaanse en Goodmaniaanse hypothese waar zijn is klein. 
