@@ -652,13 +652,23 @@ X is wetenschappelijk asa P
 ### Het enkelvoudige demarcatiecriterium van Popper
 __Falsifieerbaarheidsriterium.__ Een theorie is wetenschappelijk asa ze falsifieerbaar is.
 
+- Consistentie met alle mogelijk observaties is geen deugd.
+- Consistentie met alle actuele observatie wel.
+
+Twee problemen:
+
 - Zijn er onfalsifieerbare wetenschappelijke theorieën?
+    - Quine-Duhem probleem is relevant.
     - Doel van hulphypothese is om hoodfhypothese testbaar te maken, niet te immumiseren tegen falsificatie.
 - Zijn er falsifieerbare niet-wetenschappelijke theorieën?
+    - Ja
 
 Het is soms nuttig om een wetenschappelijke theorie af te schermen van falsificatie. 
+Zolang er geen alternatieve theorie is die wel consistent is met de empirische gegevens.
 
 Bv. de theorie van Newton over zwaartekracht zou ervoor zorgen dat alle hemellichaamen naar het zwaartepunt gaan. Dit is niet zo.
+
+Niet alleen falsifieerbaarheid is van belang maar ook of men theorie actief tracht te weerleggen of men weerleggingen wilt aanvaarden. Gedrag en houding van aanhangers zijn ook van belang.
 
 ### Meervoudige demarcatiecriteria
 
@@ -668,6 +678,8 @@ Bv. de theorie van Newton over zwaartekracht zou ervoor zorgen dat alle hemellic
     - Men moet er voorspellingen uit kunnen afleiden en die voorspelling moet confirmmeerbaar of falsifieerbaar zijn.
 #. Wetenschap is tentatief: Men moet bereid zijn een theorie te verwerpen op basis van empirische vaststellingen.
 #. Wetenschappers moet integer of intellectueel eerlijk zijn.
+
+Het kan zijn dat aan niet alles voldaan wordt, maar als aan niet voldaan is is het zeker geen wetenschap.
 
 # Filosofie en wetenschap
 ## Achtergrond: Kuhn over de ontwikkeling van wetenschap
@@ -696,8 +708,6 @@ Evolutie van wetenschap
     - Een theorie wordt vervangt het oude paradigma
 #. Anomalie en crisis
     - Terug naar 3...
-
-
 
 ## De verschillende rollen van filosofie
 ### De incubatorrol van filosofie
