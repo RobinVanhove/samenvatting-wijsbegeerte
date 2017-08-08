@@ -182,8 +182,7 @@ Naarmate er meer gevallen onderzocht worden is een de conclusie van een inductie
 
 Een argument is goed asa de conclusie meer waarschijnlijk is gegeven de premissen dan op zichzelf.
 
-__Abductie__ Gegeven een aantal premissen & alternatieve verklaringen voor
-de premissen, neem de verklaring die beste verklaring biedt voor de premissen
+__Abductie__ Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf waar is.
 
 Inductieve en abductieve argumenten zijn niet-deductief en dus niet logisch geldig
 
@@ -588,18 +587,60 @@ bv.
 Dus causale afhankelijkheid lost het probleem van irrelevantie op.
 
 ## Beste verklaringen
+Theorie over wat goede verklaringen maakt.
+
+Volgens Kuhn
+
 - Empirisch accuraat
+    - Komt overeen met reeds uitgevoerde experimenten en observaties.
 - eenvoudig
     - Minder premissen
+    - Of kleiner aantal axioma's
+    - __Scheermes van Ockham__ Men moet het aantal gepostuleerde entiteiten niet zonder noodzaak vermenigvuldigen. 
 - grote reikwijdte
+    - Hoeveel feiten die verklaard kunnen worden.
 - vruchtbaar
+    - Hoeveel nieuwe feiten we kunnen voorspellen.
 - intern en extern consistent
+    - intern: logische consistentie van de theorie
+    - extern: consistent met andere theorieën
 
-__Scheermes van Ockham__ Men moet het aantal gepostuleerde entiteiten niet zonder noodzaak vermenigvuldigen. 
 
 ## Abductie, deductie en waarschijnlijkheid
 
-Maar waarom zou men moeten aannemen dat het universum eenouvidger eerder dan complexer is?
+1e karakterisering
+
+> Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf waar is.
+
+Waarom denken dat de beste verklaring waar is?
+
+- Socrates is sterfelijk      (3) 
+- Alle mensen zijn sterfelijk (1) 
+- Dus socrates is een mens.   (2) 
+
+2 is de beste verklaring maar niet met zekerheid waar. (waarschijnlijk wel)
+
+Nieuwe karakterisering van __Abductie__
+
+> Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf __waarschijnlijk waar__ is.
+
+Wat als alle verklaringen slecht zijn? Geen reden om te denken dat conclusie waarschijnlijk waar is, laat staan waar.
+
+Fundamentele probleem: bij een abductieve inferentei vertrekt men van een relatief gegeven (beste verkalring onder de gegeven verklaringen) en daar trekt men een absolute conclusie uit (de verlaring is waarschijnlijk waar).
+
+Derde karakterisering
+
+> Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf __meer__ waarschijnlijk waar is.
+
+Waarom is dit een goede inferentie? Aantonen met relatie tussen verklaringen en de Bayesiaanse confirmatietheorie.
+
+- verklarende kracht van een hypothese -> graad van overtuiging
+
+Maar waarom is het rationeel om aan eenvoudigere hypotheses een hogere onvoorwaardelijke initiële waarschijnlijkheid toe te wijzen?
+
+Deugd van eenvoud
+
+Maar waarom zou het universum eerder eenvoudig dan complex zijn?
 
 # Wat is wetenschap?
 ## Demarcatie
