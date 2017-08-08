@@ -494,7 +494,7 @@ Volgens Bayesiaanse theorie is de kans dat de Humeaanse en Goodmaniaanse hypothe
 
 Maar de redenering blijft aannemen dat de natuur uniform is.
 
-# Abductie en verklaringen
+# Abductie en Verklaringen
 ## Verklaringen
 ### De deductief-nomologische theorie van verklaringen
 __De deductief-nomologische theorie van verklaringen.__ Een verklaring is en argument waarbij de premissen het _explanans_ vormen en de conclusie het _explanandum_ en
@@ -502,8 +502,9 @@ __De deductief-nomologische theorie van verklaringen.__ Een verklaring is en arg
 - Het argument is correct
 - ten minste een van de premissen moet een algemene wet zijn en die premisse moet essentieel zijn.
 
+__Nomologisch.__ Gebruik makend van wetten.
 
-__Elliptische verklaring.__ Niet alle relevante wetten worden en feiten worden aangehaald.
+__Elliptische verklaring.__ Niet alle relevante wetten worden en feiten worden aangehaald. Dus niet nomologisch.
 
 __Partiële verklaring.__ Een verklaring van een breder fenomeen. Dus geen deductief argument voor het explanandum.
 
@@ -512,7 +513,7 @@ __Identiteitsthesis.__ De structuur van een _voorspelling_ en een _verklaring_ z
 - een voorspelling is ex ante factum (na de feiten)
 
 ### Wetten
-__Wetten__ zijn universele generalisaties die emperisch waargenomen regelmatigheden zonder uitzonderingen uitdrukken.
+__Wetten__ zijn universele generalisaties die empirisch waargenomen regelmatigheden zonder uitzonderingen uitdrukken.
 
 Probleem: _accidentele generalisaties_ bv. er is geen bol van goud met een diameter van 100m maar dit is geen wet.
 
@@ -531,17 +532,60 @@ __De regulariteitsanalyse van causaliteit__ x is een oorzaak van y asa
 - alle gebeurtenissen van hetzelfde type als x gevolgd worden door gebeurtenissen van hetzelfde type als y (regulariteit).
 
 ### Problemen
-Deductieve nomologische verklaringen zorgen voor een onverwachte symmetrie. Wat is het gevolg en wat is de oorzaak.
+De deductief-nomologische theorie van verklaringen heeft enkele problemen in verband met de permissiviteit van de theorie. Ze laat toe dat bepaalde argumenten verklaringen zijn, terwijl ze dat intuïtief niet zijn.
+
+__Probleem van symetrie.__ Deductieve nomologische verklaringen zorgen voor een onverwachte symmetrie. Wat is het gevolg en wat is de oorzaak.
+
+Intuïtief is symmetrie niet mogelijk bij verklaringen en gevolgen.
+
+bv. schaduw $\leftrightarrow$ hoogte van een mast. Welke van de twee bepaalt de ander?
+
+__Probleem van irrelevantie.__ Irrelevante empirische generalisaties kunnen als verklaring gebuikt worden.
+
+bv. Een man die de pil neemt wordt niet zwanger. Is de pil hiervoor de oorzaak?
+
 
 ### Verklaringen en verschilmakers
-__Probabilistsiche relevantie.__ Zin $\theta$ is probabilistisch relevant voor een zin $\phi$ tov een zin $\psi$ asa $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$.
+__Probabilistische relevantie.__ Zin $\theta$ is probabilistisch relevant voor een zin $\phi$ tov een zin $\psi$ asa $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$.
 
-Dit is symmetrisch. Als $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$, dan $P(\theta|(\psi \wedge \phi)) \neq P(\theta|\phi)$
+Probabilistische relevantie help ons het probleem van irrelevantie op te lossen.
+
+De probabilistisch relevant is symmetrisch en biedt dus geen oplossing voor het probleem van de symmetrie.
+
+Symmetrie van pr: $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$, dan $P(\theta|(\psi \wedge \phi)) \neq P(\theta|\phi)$
+
+De notie van causaliteit kan ons helpen bij het probleem van symmetrie maar niet voor relevantie.
+
+Hume zegt twee dingen.
+
+> We may define a cause to be an object, followed by another, and where all the objects
+> similar to the first are followed by objects similar to the second.
+
+Dit is de regulariteitsanalyse van causaliteit.
+
+> (Or in other words) where, if the first object had not been, the second never had existed.
+
+Dit noemen we de __causale afhankelijkheid.__ Deze wordt gebruikt om het probleem van relevantie aan e pakken.
+
+__Indicatieve voorwaardelijke zin__ is in de vorm: Als $\phi$ het geval is, dan is $\psi$ het geval.
+
+__Tegengeitelijke voorwaardelijke zin__ is in de vorm: Als $\phi$ het geval geweest was, dan zou $\psi$ het geval geweest zijn.
+
+De regulariteitsvoorwaarde kan uitgedrukt worden als een indicatieve voorwaardelijke zin.
+
+De causale afhankelijkheid wodt geformuleerd met met behulp van een tegenfeitelijke voorwaardelijke zin.
 
 __Causale afhankelijkheid.__ Als C en E twee verschillende gebeurtenissen zijn dan is E causaal afhankelijk van C asa
 
 - als C voorgevallen was, dan zou E ook voorgevallen zijn
 - als C niet voorgevallen was, dan zou ook E niet voorgevallen zijn
+
+bv.
+
+1. Als Joris de pil nam, dan zou hij niet zwanger geworden zijn. (Waar)
+2. Als Joris de pil niet nam, dan zou hij zwanger geworden zijn. (Fout)
+
+Dus causale afhankelijkheid lost het probleem van irrelevantie op.
 
 ## Beste verklaringen
 - Empirisch accuraat
