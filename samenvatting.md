@@ -19,10 +19,11 @@ header-includes:
 # {-}
 
 Samenvatting voor de OPO wijsbegeerte.
+Aangevuld met de samenvatting van Aram Khachaturyan. 
 
 Broncode op 
 
-> <https://github.com/RobinVanhove/samenvatting-wijsbegeerte>
+    https://github.com/RobinVanhove/samenvatting-wijsbegeerte
 
 \vfill
 \hfill Versie \input{VERSION.txt}
@@ -35,19 +36,20 @@ Broncode op
 # Natuurfilosofie bij de Grieken
 ## Opkomst van de natuurfilosofie
 Mythe: verteld hoe de wereld is ontstaan.
+
 Plek in de wereld begrijpen.
 
 ### De-mythologisering
 Op zoek naar een rationeel vrantwoorde uiteenzetting.
 Verwerpen oude traditionele en religieuze verklaringen.
 
-De natuur kan verklaard worden met enkele principes die geen geheimen van de goden zijn.
-Dus begrijpbaar door mensen.
+De natuur kan verklaard worden met enkele principes (Archai) die geen geheimen van de goden zijn.
+Dus begrijpbaar door mensen (logos).
 
 Verschil met oude grieken en nu:
 
 - Geen experimenten of instrumenten
-- Wiskunde volgens grieken enkel toepasbaar op 'hemelse'
+- Wiskunde volgens grieken enkel toepasbaar op 'hemelse', dus geen exacte formulering van wat er op aarde gebeurt.
 
 ### Griekse natuurfilosofen
 Alle deeltjes bestaan uit een __oerstof__ 
@@ -65,6 +67,9 @@ Alle deeltjes bestaan uit een __oerstof__
 Kosmische orde begrijpen met wiskunde.
 
 ## Het Aristotelische wereldbeeld
+Aristotoles is een leerling van Plato die verder bouwde op Socrates & Plato.
+Hij ontwikkelde zijn egen filosofie, het Aristotelianisme.
+
 __Geocentrisme__: Aarde in het centrum van het universum
 
 __Hemellichamen zijn perfecte bollen die in cirkels draaien rond de aarde__
@@ -75,20 +80,34 @@ Contrast: Hemelse <-> ondermaanse
 
 Opvallend: Observaties en speculatie over de natuur
 
+speculatie: ether
+
+observatie:
+
+- zware lichamen vallen sneller
+- natuurlijke toestand = rust
+
 Astronomie door wiskunde ontwikkeld.
 Observatie dat hemellichamen niet perfect rond aarde draaien werd verklaard met __epicykels__ (cirkles rond cirkels)
+
+Bleef lang dominant door vermenging met katholieke leer.
 
 # De wetenschappelijke revolutie
 ## Het ontstaan van de moderne wetenschap
 Gebruik van nieuwe uitvindingen: Telescoop & Microscoop. 
 
-Geocentrische vervangen door __heliocentrisme__ (aarde draait rond de zon)
+Copernicus: Geocentrische vervangen door __heliocentrisme__ (aarde draait rond de zon)
 
 Kepler: De planeten bewegen zich in een ellips met de zon en een van de twee foci (brandpunten).
 
 Geen epicykels meer!
 
-Blijkbaar is de maan niet perfect.
+Galileo Galilei: 
+
+- Blijkbaar is de maan (en andere hemellichamen) niet perfect.
+- Blijkbaar zijn er andere manen rond andere lichamen.
+- Blijkbaar vallen zware lichamen even snel als lichte.
+- Blijkbaar gaan lichamen aan een cte snelheid als er gen kracht op inwerkt.
 
 Wiskunde toepassen op aardse objecten en fenomenen. 
 
@@ -96,19 +115,37 @@ Gebruik van experimenten.
 
 Nieuwe ideeën in strijd met de kerk -> Vervolging. 
 
-Volgens Galilie niet, wiskunde is de taal van god. Bijbel is slechts in mensen woorden.
+Volgens Galilei niet, wiskunde is de taal van god. Bijbel is slechts in mensen woorden.
+
+Hoogte punt wetenschappelijke revolutie: werk van Newton.
+
+- Wetten van Newton
+- Wet van zwaartekracht -> Basis mechanica
+- Differentiaal- en intergraalrekenen (ook door Leibniz)
+
+De wetten an Kepler en Galilei konden uit de wetten Newton afgeleid worden!
 
 ## De mechanisering van de fysica
+Natuur bij grieken (Aristotoles): Geheel van dingen die uit zichzelf een beweging of een proces van verandering op gang kunnen brengen.
+
+Mechanica niet natuurlijk, dus geen natuurkunde. Vanaf nu geen verschil
+
 Natuur is een grote machine. 
 
 Fysica belangrijk voor de industrie. 
 
 Natuur begrijpen en beheersen.
 
-Bij grieken: Mechanica niet natuurlijk, dus geen natuurkunde. Vanaf nu geen verschil
+Ook onderscheid _natuurlijk_ & _kunstmatig_ valt weg.
+
+Begin 17e eeuw worden natuurlijke stoffen kunstmatig gemaakt.
 
 ## Universele wiskunde
 Algebra en symbolen zijn leuk!
+
+Descartes: analytische meetkunde ook!
+
+Aristoteles was fout: er is geen wiskundig verschil tussen hemelse (volmaakte) en het ondermaanse.
 
 ## Een nieuwe wetenschap van de natuur
 Verschil tussen grieken en Revolutie
@@ -116,8 +153,6 @@ Verschil tussen grieken en Revolutie
 - Theorieën geschreven in wiskundige symbolen
 - Experimenteel bevestigd, andere experimenten voorspellen
 - Vroeger: Natuurlijke plaats (zo hoort het) <-> Nu bepaalt door krachten
-
-
 
 # Inleiding: Wetenschappelijk redeneren
 ## Argumenten
@@ -147,16 +182,37 @@ Naarmate er meer gevallen onderzocht worden is een de conclusie van een inductie
 
 Een argument is goed asa de conclusie meer waarschijnlijk is gegeven de premissen dan op zichzelf.
 
+__Abductie__ Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf waar is.
+
+Inductieve en abductieve argumenten zijn niet-deductief en dus niet logisch geldig
+
+
 ## Wetenschapsidealen
 Wetenschappelijk redeneren: inductie en abductie centraal
 
 ### De axiomatische methode
 __Axioma__: Een bewering die als grondslag aanvaard wordt
 
-Verder oude grieken ofzo
+Sinds Euclides is axiomatisering een ideaal in de wiskunde.
+
+Maar oude logica schoot tekort voor het werk van Euclides, logica stond nog in zijn kinderschoenen. Later (19e eeuw) bleken er ook deductieve gaten in zijn werk te zitten. Niet alle stellingen volgde logisch uit de axioma's.
+
+De huidige wiskundige theorieën zijn geaxiomatiseerde eerste-orde theorieën. bv. verzamelingenleer
+
+Euclidische meetkunde is al eeuwenlang een wetenschappelijk ideaal. De wetenschap gaat deductief te werk en er wordt een axiomatische methode gevolgd.
+
+Axioma's kunnen niet deductief gerechtvaardigd worden, wel inductief.
 
 ### Newton over experimentele filosofie
-Blah blah Regeltjes van newton
+Vier regels, de Rules of reasoning in Philosophy. Waarbij Philosophy de natuurkunde is.
+
+1. Verklaringen, oorzaken, gevolgen en eenvoud
+    - Afleiding (abductie) is de beste verklaring
+2. Verklaringen hebben te maken oorzaken & eenvoud (= criterium voor verklaringen)
+3. Betrekken op inductie
+    - bv. Wetten van Kepler is een inductieve generalisatie op basis van waarnemingen
+4. Toch grote plaats voor deductief werk van Newton
+    - bv. wetten van Newton
 
 # Deductie
 ## Zinslogica
@@ -180,8 +236,6 @@ Materiële equivalentie  asa           $\leftrightarrow$
 __Structuur__: Waarde 0 of 1 toekennen aan zinnen.
 
 $|\phi|_A$ is De waarde van $\phi$ in de structuur $A$.
-
-[Comment]: <> (_ Comment to fix syntax latex math leaving underscore unclosed)
 
 ### De waarheidstafelmethode
 ...
@@ -217,6 +271,9 @@ $$ \forall\phi \rightarrow \phi[t/b] $$
 $$ \phi[t/b] \rightarrow \exists x \phi$$
 
 ## Directe Verificatie en falsificatie
+Wetenschappelijke hypotheses zijn geen logische waarheden. Het is mogelijk om logica te gebruiken om op basis van observaties te bepalen of een
+hypothese waar of onwaar is.
+
 ### obervatiezinnen
 __observatiezinnen__ Een zin die een mogelijke observatie beschrijft.
 Kan onwaar zijn.
@@ -224,7 +281,7 @@ Kan onwaar zijn.
 - Roses are red
 - Violets are blue
 
-### Directe verificatie en falsificatie
+### Directe verificatie en Falsificatie
 __Directe verificatie__ De existentiële generalisatie ($\exists x\phi$) wordt geverifieerd als $\phi[t/v]$ een ware observatie zin is.
 
 __Directe falsificatie__ De universele generalisatie  ($\forall x\phi$) wordt gefalsifieerd als $\phi[t/v]$ onwaar is.
@@ -273,7 +330,16 @@ Men kan met logica niet bepalen waar de fout ligt.
 ### Ad hoc hypotheses
 Een hypothese is __ad hoc__ asa ze enkel en alleen naar voren geschoven wordt om bij de indirecte falsificatie van een hoofdhypothese te kunnen concluderen dat een van de hulphypothese fout is.
 
+Voorbeeld: Flogiston
+
+Bij verbranding verdwijnen substanties. Theorie was dat een stof _flogiston_ vrijkomt.
+Maar metalen krijgen extra massa als ze verbranden!
+
+Ad hoc hypothese: twee soorten flogiston, een met positieve en een met negatieve massa.
+
 ## Voorbij deductie?
+Existentiële generalisaties zijn niet direct falsifieerbaar en universele generalisaties niet direct verifieerbaar. Er kan niet deductief geredeneerd worden, andere vormen van redeneren is
+nodig.
 
 # Inductie en waarschijnlijkheid
 ## Twee problemen in verband met inductie
@@ -281,18 +347,34 @@ Een hypothese is __ad hoc__ asa ze enkel en alleen naar voren geschoven wordt om
 __Vork van Hume__ twee types redeneringen
 
 - deductieve bewijzen
-- Inductieve rdeneringen, waarschijnlijke redeneringen, redeneringen op basis van observaties uit het verleden
+- Inductieve redeneringen, waarschijnlijke redeneringen, redeneringen op basis van observaties uit het verleden
     - Neemt aan dat de natuur uniform is
 
-#. Tenzij er een reden is om aan te nemen dat de natuur uniform is, is er geen reden om geloof te hechten aan conclusies uit inductieve redeneringen.
-#. Er is geen reden om de aanname te geloven op basis van een deductief bewijs, aangezien de negatie van de aanname (de bewering dat de natuur niet uniform is) logisch consistent is.
-#. Er is geen reden om de aanname te geloven op basis van een inductief argument, omdat dat circulair zou zijn - zie premisse 1.
+Of zoals wikipeida het stelt:
+
+> David Hume divided knowledge into two categories “relations of ideas” (deductieve bewijzen), and “matters of fact”(inductieve bewijzen). Relations of ideas are truthful and correct statements (for example “all unmarried men are bachelors”. Matters of fact are statements we are nearly certain are truthful but there is still a chance for it to be false: “the sun will rise in the morning”: there is a chance it will not rise. ^[https://simple.wikipedia.org/wiki/Hume%27s_fork]
+
+De redenering:
+
+1. Tenzij er een reden is om aan te nemen dat de natuur uniform is, is er geen reden om geloof te hechten aan conclusies uit inductieve redeneringen.
+2. Er is geen reden om de aanname te geloven op basis van een deductief bewijs, aangezien de negatie van de aanname (de bewering dat de natuur niet uniform is) logisch consistent is.
+3. Er is geen reden om de aanname te geloven op basis van een inductief argument, omdat dat circulair zou zijn - zie premisse 1.
     - Geloof in het principe van uniformiteit op basis van een inductief argument is circulair.
-#. Als er geen reden is om geloof te hechten aan de aanname op basis van een deductief of inductief argument, dan is er geen reden om geloof te hechten aan de aanname.
-#. De aanname is dus niet gerechtvaardigd.
-#. Dus er is geen reden om geloof the hecthen aan de conclusies van inductieve redeneringen.
+4. Als er geen reden is om geloof te hechten aan de aanname op basis van een deductief of inductief argument, dan is er geen reden om geloof te hechten aan de aanname.
+5. De aanname is dus niet gerechtvaardigd.
+6. Dus er is geen reden om geloof the hechten aan de conclusies van inductieve redeneringen.
+
+
+Geloof in het principe van uniformiteit op basis van een inductief argument is circulair. bv.
+
+- Tot nu toe was de natuur altijd uniform
+- Dus de natuur zal uniform blijven
+
+Dit is argument maakt ook gebruik van een uniformiteitsaanname.
 
 ### Het nieuwe raadsel van Goodman
+
+Waarnemingen die tot nu toe gedaan zijn kunnen niet helpen de toekomst te voorspellen.
 
 - Alle smaragden tot nu toe waargenomen zijn groen
 - Dus alle smaragden zijn groen
@@ -315,7 +397,7 @@ __De hypothetisch-deductieve theorie van confirmatie.__ Stel dat $\Gamma$ een ni
 Enkele problemen met de hypothetisch-deductieve theorie van confirmatie.
 
 1. Stelt disconfirmatie gelijk aan falsificatie dus het Quine-Duhem probleem.
-2. Confirmatie spiegelt inductie dus problemen met inductie sollen zich voor.
+2. Confirmatie spiegelt inductie dus problemen met inductie stellen zich voor.
  
 bv. Gruesome proobleem wordt geconfirmeerd met experiment in 2017.
 
@@ -339,7 +421,7 @@ Lees $P(\phi|\psi)$ als de kans van $\phi$ gegeven $\psi$
 
 __Bayens.__ $P(\phi|\psi) = P(\psi|\phi) \cdot \frac{P(\psi)}{P(\psi)}$ 
 
-__Conditionele waarschijnlijkheid en geldigheid__ Als $\phi \models \psi$ en $0< P(\phi)$ dan $P(\psi|\phi) = 1$. 
+__Conditionele waarschijnlijkheid en geldigheid__ Als $\phi \models \psi$ en $0 < P(\phi)$ dan $P(\psi|\phi) = 1$. 
 
 ## Interpretatie van waarschijnlijkheid
 Ook de frequentistische interpretatie.
@@ -377,24 +459,41 @@ Problemen met deze interpretatie zijn
 ## De Bayesiaanse confirmatietheorie
 De __Bayensiaanse theorie__ heeft twee principes, de eerste werd in de vorige sectie besproken. 
 
-__Synchronische coherentie.__ Op elk tijdstip moeten de graden van overtuiging veoldoen aan Kolmogrov. 
+__Synchronische coherentie.__ Op elk tijdstip moeten de graden van overtuiging voldoen aan Kolmogrov. 
 
 __Diachronische coherentie.__ 
-Op tijd $t_1$ zijn de graden van overtuiging van een subject gelijk aan $P_1$. Op $t_2$ veranderd de graad van overtuiging in $E$ naar 1. De graden van overtuiging op $t_2$ worden gepresenteerd door $P_2$ die verschilt van $P_1$ door: $P_2(H) = P_1(H|E)$ (indien $P_1 (E) > 0$) voor alle zinnen H.[^1]
+Op tijd $t_1$ zijn de graden van overtuiging van een subject gelijk aan $P_1$. Op $t_2$ veranderd de graad van overtuiging in $E$ naar 1. De graden van overtuiging op $t_2$ worden gepresenteerd door $P_2$ die verschilt van $P_1$ door: $P_2(H) = P_1(H|E)$ (indien $P_1 (E) > 0$) voor alle zinnen H.
 
-[^1]: Letterlijk uit de samenvatting van Aram Khachaturyan. 
+__Coördinatieprincipe.__ Als een hypothese H stelt dat de proportie van E gelijk is aan _x_, dan stellen we onze graad van overtuiging in E gegeven H gelijk aan _x_.
+
+__Subjectieve totale waarschijnlijkheid.__ Als $\psi_1, ..., \psi_n$ paarsgewijs logisch inconsistente verzameling vormen en als $P(\psi_1 \vee ... \vee \psi_n) = 1$ dan
+$P(\phi) = (P(\phi|\psi_1) \times P(\psi_1)) + ... + (P(\phi|\psi_n) \times P(\psi_n))$
+
+Dit wil zeggen dat van de disjuntie $(\psi_1 \vee ... \vee \psi_n)$ gelijk is aan 1.
+De persoon is er dus van overtuigt dat minstens een zin waar is.
 
 __Probabilistsiche (dis)confirmatie.__ Als $P(E) > 0$ dan
 
 - confirmeert E H $\Leftrightarrow P(H|E) > P(E)$
 - disconfirmeert E H $\Leftrightarrow P(H|E) < P(E)$
 
+__De hypothetisch-deductieve theorie is een speciaal geval van BCT__ als,
+
+1. $H, A \models E$ waarbij A een hulphypothese is
+2. $1 > P(H|A) > 0$
+2. $1 > P(E|A) > 0$
+
+Dan geldt
+
+1. $P(H|E\wedge A) > P(H|A)$
+2. $P(H|\neg E\wedge A) < P(H|A)$
+
 ## Waarschijnlijkheid en inductie
 Volgens Bayesiaanse theorie is de kans dat de Humeaanse en Goodmaniaanse hypothese waar zijn is klein. 
 
 Maar de redenering blijft aannemen dat de natuur uniform is.
 
-# Abductie en verklaringen
+# Abductie en Verklaringen
 ## Verklaringen
 ### De deductief-nomologische theorie van verklaringen
 __De deductief-nomologische theorie van verklaringen.__ Een verklaring is en argument waarbij de premissen het _explanans_ vormen en de conclusie het _explanandum_ en
@@ -402,8 +501,9 @@ __De deductief-nomologische theorie van verklaringen.__ Een verklaring is en arg
 - Het argument is correct
 - ten minste een van de premissen moet een algemene wet zijn en die premisse moet essentieel zijn.
 
+__Nomologisch.__ Gebruik makend van wetten.
 
-__Elliptische verklaring.__ Niet alle relevante wetten worden en feiten worden aangehaald.
+__Elliptische verklaring.__ Niet alle relevante wetten worden en feiten worden aangehaald. Dus niet nomologisch.
 
 __Partiële verklaring.__ Een verklaring van een breder fenomeen. Dus geen deductief argument voor het explanandum.
 
@@ -412,7 +512,7 @@ __Identiteitsthesis.__ De structuur van een _voorspelling_ en een _verklaring_ z
 - een voorspelling is ex ante factum (na de feiten)
 
 ### Wetten
-__Wetten__ zijn universele generalisaties die emperisch waargenomen regelmatigheden zonder uitzonderingen uitdrukken.
+__Wetten__ zijn universele generalisaties die empirisch waargenomen regelmatigheden zonder uitzonderingen uitdrukken.
 
 Probleem: _accidentele generalisaties_ bv. er is geen bol van goud met een diameter van 100m maar dit is geen wet.
 
@@ -431,31 +531,116 @@ __De regulariteitsanalyse van causaliteit__ x is een oorzaak van y asa
 - alle gebeurtenissen van hetzelfde type als x gevolgd worden door gebeurtenissen van hetzelfde type als y (regulariteit).
 
 ### Problemen
-Deductieve nomologische verklaringen zorgen voor een onverwachte symmetrie. Wat is het gevolg en wat is de oorzaak.
+De deductief-nomologische theorie van verklaringen heeft enkele problemen in verband met de permissiviteit van de theorie. Ze laat toe dat bepaalde argumenten verklaringen zijn, terwijl ze dat intuïtief niet zijn.
+
+__Probleem van symetrie.__ Deductieve nomologische verklaringen zorgen voor een onverwachte symmetrie. Wat is het gevolg en wat is de oorzaak.
+
+Intuïtief is symmetrie niet mogelijk bij verklaringen en gevolgen.
+
+bv. schaduw $\leftrightarrow$ hoogte van een mast. Welke van de twee bepaalt de ander?
+
+__Probleem van irrelevantie.__ Irrelevante empirische generalisaties kunnen als verklaring gebuikt worden.
+
+bv. Een man die de pil neemt wordt niet zwanger. Is de pil hiervoor de oorzaak?
+
 
 ### Verklaringen en verschilmakers
-__Probabilistsiche relevantie.__ Zin $\theta$ is probabilistisch relevant voor een zin $\phi$ tov een zin $\psi$ asa $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$.
+__Probabilistische relevantie.__ Zin $\theta$ is probabilistisch relevant voor een zin $\phi$ tov een zin $\psi$ asa $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$.
 
-Dit is symmetrisch. Als $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$, dan $P(\theta|(\psi \wedge \phi)) \neq P(\theta|\phi)$
+Probabilistische relevantie help ons het probleem van irrelevantie op te lossen.
+
+De probabilistisch relevant is symmetrisch en biedt dus geen oplossing voor het probleem van de symmetrie.
+
+Symmetrie van pr: $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$, dan $P(\theta|(\psi \wedge \phi)) \neq P(\theta|\phi)$
+
+De notie van causaliteit kan ons helpen bij het probleem van symmetrie maar niet voor relevantie.
+
+Hume zegt twee dingen.
+
+> We may define a cause to be an object, followed by another, and where all the objects
+> similar to the first are followed by objects similar to the second.
+
+Dit is de regulariteitsanalyse van causaliteit.
+
+> (Or in other words) where, if the first object had not been, the second never had existed.
+
+Dit noemen we de __causale afhankelijkheid.__ Deze wordt gebruikt om het probleem van relevantie aan e pakken.
+
+__Indicatieve voorwaardelijke zin__ is in de vorm: Als $\phi$ het geval is, dan is $\psi$ het geval.
+
+__Tegengeitelijke voorwaardelijke zin__ is in de vorm: Als $\phi$ het geval geweest was, dan zou $\psi$ het geval geweest zijn.
+
+De regulariteitsvoorwaarde kan uitgedrukt worden als een indicatieve voorwaardelijke zin.
+
+De causale afhankelijkheid wodt geformuleerd met met behulp van een tegenfeitelijke voorwaardelijke zin.
 
 __Causale afhankelijkheid.__ Als C en E twee verschillende gebeurtenissen zijn dan is E causaal afhankelijk van C asa
 
 - als C voorgevallen was, dan zou E ook voorgevallen zijn
 - als C niet voorgevallen was, dan zou ook E niet voorgevallen zijn
 
+bv.
+
+1. Als Joris de pil nam, dan zou hij niet zwanger geworden zijn. (Waar)
+2. Als Joris de pil niet nam, dan zou hij zwanger geworden zijn. (Fout)
+
+Dus causale afhankelijkheid lost het probleem van irrelevantie op.
+
 ## Beste verklaringen
+Theorie over wat goede verklaringen maakt.
+
+Volgens Kuhn
+
 - Empirisch accuraat
+    - Komt overeen met reeds uitgevoerde experimenten en observaties.
 - eenvoudig
     - Minder premissen
+    - Of kleiner aantal axioma's
+    - __Scheermes van Ockham__ Men moet het aantal gepostuleerde entiteiten niet zonder noodzaak vermenigvuldigen. 
 - grote reikwijdte
+    - Hoeveel feiten die verklaard kunnen worden.
 - vruchtbaar
+    - Hoeveel nieuwe feiten we kunnen voorspellen.
 - intern en extern consistent
+    - intern: logische consistentie van de theorie
+    - extern: consistent met andere theorieën
 
-__Scheermes van Ockham__ Men moet het aantal gepostuleerde entiteiten niet zonder noodzaak vermenigvuldigen. 
 
 ## Abductie, deductie en waarschijnlijkheid
 
-Maar waarom zou men moeten aannemen dat het universum eenouvidger eerder dan complexer is?
+1e karakterisering
+
+> Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf waar is.
+
+Waarom denken dat de beste verklaring waar is?
+
+- Socrates is sterfelijk      (3) 
+- Alle mensen zijn sterfelijk (1) 
+- Dus socrates is een mens.   (2) 
+
+2 is de beste verklaring maar niet met zekerheid waar. (waarschijnlijk wel)
+
+Nieuwe karakterisering van __Abductie__
+
+> Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf __waarschijnlijk waar__ is.
+
+Wat als alle verklaringen slecht zijn? Geen reden om te denken dat conclusie waarschijnlijk waar is, laat staan waar.
+
+Fundamentele probleem: bij een abductieve inferentei vertrekt men van een relatief gegeven (beste verkalring onder de gegeven verklaringen) en daar trekt men een absolute conclusie uit (de verlaring is waarschijnlijk waar).
+
+Derde karakterisering
+
+> Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf __meer__ waarschijnlijk waar is.
+
+Waarom is dit een goede inferentie? Aantonen met relatie tussen verklaringen en de Bayesiaanse confirmatietheorie.
+
+- verklarende kracht van een hypothese -> graad van overtuiging
+
+Maar waarom is het rationeel om aan eenvoudigere hypotheses een hogere onvoorwaardelijke initiële waarschijnlijkheid toe te wijzen?
+
+Deugd van eenvoud
+
+Maar waarom zou het universum eerder eenvoudig dan complex zijn?
 
 # Wat is wetenschap?
 ## Demarcatie
@@ -467,13 +652,23 @@ X is wetenschappelijk asa P
 ### Het enkelvoudige demarcatiecriterium van Popper
 __Falsifieerbaarheidsriterium.__ Een theorie is wetenschappelijk asa ze falsifieerbaar is.
 
+- Consistentie met alle mogelijk observaties is geen deugd.
+- Consistentie met alle actuele observatie wel.
+
+Twee problemen:
+
 - Zijn er onfalsifieerbare wetenschappelijke theorieën?
+    - Quine-Duhem probleem is relevant.
     - Doel van hulphypothese is om hoodfhypothese testbaar te maken, niet te immumiseren tegen falsificatie.
 - Zijn er falsifieerbare niet-wetenschappelijke theorieën?
+    - Ja
 
 Het is soms nuttig om een wetenschappelijke theorie af te schermen van falsificatie. 
+Zolang er geen alternatieve theorie is die wel consistent is met de empirische gegevens.
 
 Bv. de theorie van Newton over zwaartekracht zou ervoor zorgen dat alle hemellichaamen naar het zwaartepunt gaan. Dit is niet zo.
+
+Niet alleen falsifieerbaarheid is van belang maar ook of men theorie actief tracht te weerleggen of men weerleggingen wilt aanvaarden. Gedrag en houding van aanhangers zijn ook van belang.
 
 ### Meervoudige demarcatiecriteria
 
@@ -484,9 +679,11 @@ Bv. de theorie van Newton over zwaartekracht zou ervoor zorgen dat alle hemellic
 #. Wetenschap is tentatief: Men moet bereid zijn een theorie te verwerpen op basis van empirische vaststellingen.
 #. Wetenschappers moet integer of intellectueel eerlijk zijn.
 
+Het kan zijn dat aan niet alles voldaan wordt, maar als aan niet voldaan is is het zeker geen wetenschap.
+
 # Filosofie en wetenschap
 ## Achtergrond: Kuhn over de ontwikkeling van wetenschap
-Evolutie van wetenschap
+Evolutie van wetenschap volgens Kuhn:
 
 #. Prepragmatische fase
     - Er ontbreekt een paradigma
@@ -508,11 +705,17 @@ Evolutie van wetenschap
     - Grondslagonderzoek
 #. Wetenschappelijke revolutie
     - Resulteert in nieuwe paradigmatische fase (2)
-    - Een theorie wordt vervangt het oude paradigma
+    - Een theorie vervangt het oude paradigma
 #. Anomalie en crisis
     - Terug naar 3...
 
+Kuhn werkt met blokken, Gallison werkt met een muurmetafoor waarbij verschillende lagen kunnen overlappen.
 
+- Hoog-theoretische laag
+- Het instrumentele
+- Het experimentele
+
+Er kunnen veel onderzoeksprogramma's (~paradigma's) tegelijk naast elkaar bestaan.
 
 ## De verschillende rollen van filosofie
 ### De incubatorrol van filosofie
@@ -528,8 +731,9 @@ Bv. De bijdragen van de filosfie aan de hedendaagse wiskundige logica.
 ### De kritische rol van filosofie
 Tijdens de paradigmatische zetten wetenschappers wich af van fundamentele, filosofische vragen en richten wich op het oplossen van puzzels.
 
-# Module: Stelling van Gödel
+Maar het is soms wel belangrijk om kritisch na te denken over de natuur.
 
+# Module: Stelling van Gödel
 ## An introduction to Gödel's Theorems
 Samenvatting los gebaseerd op "An introduction to Gödel's Theorems" van Peter Smith en .
 
@@ -566,3 +770,4 @@ Het axiomatiseringsproject, alle wiskundige theorieën axiometiseren. Men wil ee
 __Eerst onvolledigheidsstellingen.__ Geen enkele axiometiseerbare extensie van de minimale rekenkunde is volledig.
 
 Dus er kan geen 1 theorie zijn die alles bewijst.
+
