@@ -683,7 +683,7 @@ Het kan zijn dat aan niet alles voldaan wordt, maar als aan niet voldaan is is h
 
 # Filosofie en wetenschap
 ## Achtergrond: Kuhn over de ontwikkeling van wetenschap
-Evolutie van wetenschap
+Evolutie van wetenschap volgens Kuhn:
 
 #. Prepragmatische fase
     - Er ontbreekt een paradigma
@@ -705,9 +705,17 @@ Evolutie van wetenschap
     - Grondslagonderzoek
 #. Wetenschappelijke revolutie
     - Resulteert in nieuwe paradigmatische fase (2)
-    - Een theorie wordt vervangt het oude paradigma
+    - Een theorie vervangt het oude paradigma
 #. Anomalie en crisis
     - Terug naar 3...
+
+Kuhn werkt met blokken, Gallison werkt met een muurmetafoor waarbij verschillende lagen kunnen overlappen.
+
+- Hoog-theoretische laag
+- Het instrumentele
+- Het experimentele
+
+Er kunnen veel onderzoeksprogramma's (~paradigma's) tegelijk naast elkaar bestaan.
 
 ## De verschillende rollen van filosofie
 ### De incubatorrol van filosofie
@@ -723,8 +731,9 @@ Bv. De bijdragen van de filosfie aan de hedendaagse wiskundige logica.
 ### De kritische rol van filosofie
 Tijdens de paradigmatische zetten wetenschappers wich af van fundamentele, filosofische vragen en richten wich op het oplossen van puzzels.
 
-# Module: Stelling van Gödel
+Maar het is soms wel belangrijk om kritisch na te denken over de natuur.
 
+# Module: Stelling van Gödel
 ## An introduction to Gödel's Theorems
 Samenvatting los gebaseerd op "An introduction to Gödel's Theorems" van Peter Smith en .
 
