@@ -16,6 +16,8 @@ header-includes:
     ]{doclicense}
 ---
 
+\clearpage
+
 # {-}
 
 Samenvatting voor de OPO wijsbegeerte.
@@ -738,23 +740,65 @@ Maar het is soms wel belangrijk om kritisch na te denken over de natuur.
 Samenvatting los gebaseerd op "An introduction to Gödel's Theorems" van Peter Smith en .
 
 ### Basic arithmetic (Basis rekenkunde)
-Een aantal axiomas beschrijven eenvoudige rekenkunde. 
+De rekenkunde stelt dat er een een volgorde van getallen beginnende bij nul is waarbij ieder getal 1 opvolger heeft.
 
-Een zin $\phi$ die geformuleerd kan worden in de taal van de eenouvdige rekenkunde. 
-De zin is ofwel waar of niet waar, dit kan afgeleid worden uit de axiomas.
+Samen met optellen en vermenigvuldigen kunnen we andere noties zoals priemgetallen definiëren.
 
-Men zegt dat een theorie compleet is als voor iedere zin $\phi$ ofwel $\phi$ of $\neg\phi$ gevonden kan worden in de theorie.
+We kunnen bewering over de rekenkunde doen, waarheden zoals de commutativiteit vd som maar ook nog niet bewezen beweringen zoals Goldbach's conjecture (vermoeden).
+
+Iedere bewering die we doen is wel deterministisch, ze is waar of niet waar.
+
+We gebruiken een aantal axioma's om de de rekenkunde te beschrijven.
+
+Een zin $\phi$ die geformuleerd kan worden in de taal van de eenvoudige rekenkunde. 
+De zin is ofwel waar of niet waar. De zin $\phi$ of zijn tegengestelde dit kan logisch bewezen worden uit de axioma's.
+
+We zullen niet altijd een bewijs vinden maar gaan er vanuit dat zo'n bewijs wel bestaat. Omdat de axioma's genoeg informatie bevatten om een waarde (True of False) uit af te leiden met logische stappen. (Dit is niet zo)
+
+Men zegt dat een theorie (negation) compleet is als voor iedere zin $\phi$ ofwel $\phi$ of $\neg\phi$ afgeleid kan worden uit de theorie. In andere woorden een theorie is compleet als we de (on)waarheid van een iedere zin kunnen bewijzen.
 
 ### Incompleteness (onvolledigheid)
 De __eerst stelling van Gödel__ zegt dat het idee dat we de rekenkunde volledig kunnen axiometiseren fout is. 
 
 We nemen de zin $G_T$ waarbij, als een theorie T consistent is noch $G_T$ noch $\neg G_T$ afgeleid kan worden in T. Maar we kunnen zien dat $G_T$ waar is in T.
 
-Getallen kunnen gebruikt worden om betekenis te coderen. Dus we kunnen feiten over wat afleidbaar is in T coderen.
+Getallen kunnen gebruikt worden om betekenis te coderen. Godel vond een manier om feiten over wat afleidbaar is in T te coderen. Dus we kunnen $G_T$ gewoon als volgt definiëren.
 $$G_T: \text{Deze zin is is niet bewijsbaar in T}$$ 
 De zin $G_T$ is waar, maar dit kan je niet bewijzen in T.
 
 Stel dat je de wijsneus wil uithangen en $G_T$ als een axioma aan T toevoegt om de die theorie U te bekomen kunnen we gewoon een andere zin $G_U$ opstellen die hetzelfde zegt.
+
+### More incompleteness
+We kunnen de rekenkunde en dus de onvolledigheidsstelling ook terugvinden in andere theorieën bv. de verzamelingenleer. 
+
+Begin met een lege set $\emptyset$, maak een set $\{\emptyset\}$, $\{\emptyset, \{\emptyset\}\}$, ...
+
+Deze structuur is analoog aan de natuurlijke getallen. Analogen voor optellen en vermenigvuldigen kunnen ook gevonden worden.
+
+### Some implications?
+De volledige rekenkunde kan dus niet volledig deductief afgeleid worden uit de eenvoudige regels.
+
+Dan kunnen we ons afvragen waarom wij Godel zinnen kunnen herkennen als waar op een manier die de gewone regel overstijgt. Men kan zelfs beweren dat we hierdoor geen machines kunnen zijn.
+
+### The unproveability of consistency
+Als T een theorie is die de rekenkunde bevat kunne we $1\neq0$ afleiden. Als T ook $1=0$ bewijst dan is T inconsistent.
+
+De zin $con_T$ stelt dat de theorie T consistent is. Uit de eerste stelling van Godel weten we dat als T consistent is dat $G_T$ niet te bewijzen is, dus $con_T \rightarrow G_T$.
+
+Hieruit volgt dat als T consistent is dat dit niet bewezen kan worden in T. Een theorie kan zijn eigen consistentie dus niet bewijzen.
+
+Dit is de tweede stelling van Godel.
+
+### More implications?
+Zelfs zonder de tweede stelling kunnen we een theorie T die $con_T$ bewijst niet geloven, want uit een inconsistente theorie kan iedere zin bewezen worden.
+
+Een theorie T die de rekenkunde omvat kan zijn eigen consistentie dus niet bewijzen. De theorie T kan ook geen uitgebreide theorie $T^+$ bewijzen. Dit omdat als T bewijst dat $T^+$ consistent is het dan ook bewijst dat T consistent is en dat mag niet. Iedere theorie die consistent is kan namelijk opgedeeld worden in andere delen die ook consistent zijn.
+
+Dit alles zorgt ervoor dat het programma van Hilbert (Hilbert's Programme) onmogelijk wordt.
+Hilbert stelde namelijk voor oom een beperkte set axioma's te nemen waarvan we kunnen bewijzen dat ze consistent zijn, wat dus niet gaat.
+
+### What's next?
+_In dit deel spreekt de schrijver over de verder inhoud van het boek, dit is niet relevant._
 
 ## Module: de onvolledigheidsstellingen van Gödel
 Samenvatting los gebaseerd op de slides van Prof. Jan Heylen.
