@@ -1,7 +1,7 @@
 ---
 title: Samenvatting Wijsbegeerte
 author: Robin Vanhove
-date: Juni 2017
+date: Augustus 2017
 toc: true
 numbersections: true
 geometry: margin=2cm
