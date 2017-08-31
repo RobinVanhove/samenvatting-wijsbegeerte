@@ -800,18 +800,3 @@ Hilbert stelde namelijk voor oom een beperkte set axioma's te nemen waarvan we k
 ### What's next?
 _In dit deel spreekt de schrijver over de verder inhoud van het boek, dit is niet relevant._
 
-## Module: de onvolledigheidsstellingen van Gödel
-Samenvatting los gebaseerd op de slides van Prof. Jan Heylen.
-
-### Optimisme
-> "In mathematics there is no ignorabimus "
-> [In wiskunde is er geen ‘we zullen het niet weten’]
-
-Het axiomatiseringsproject, alle wiskundige theorieën axiometiseren. Men wil een formele wiskundige taal om alles in te bewijzen.
-
-### Pessimisme
-
-__Eerst onvolledigheidsstellingen.__ Geen enkele axiometiseerbare extensie van de minimale rekenkunde is volledig.
-
-Dus er kan geen 1 theorie zijn die alles bewijst.
-
