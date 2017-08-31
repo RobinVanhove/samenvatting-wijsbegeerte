@@ -1,7 +1,7 @@
 ---
 title: Samenvatting Wijsbegeerte
 author: Robin Vanhove
-date: Juni 2017
+date: Augustus 2017
 toc: true
 numbersections: true
 geometry: margin=2cm
@@ -109,7 +109,7 @@ Galileo Galilei:
 - Blijkbaar is de maan (en andere hemellichamen) niet perfect.
 - Blijkbaar zijn er andere manen rond andere lichamen.
 - Blijkbaar vallen zware lichamen even snel als lichte.
-- Blijkbaar gaan lichamen aan een cte snelheid als er gen kracht op inwerkt.
+- Blijkbaar gaan lichamen aan een cte snelheid als er geen kracht op inwerkt.
 
 Wiskunde toepassen op aardse objecten en fenomenen. 
 
@@ -125,7 +125,7 @@ Hoogte punt wetenschappelijke revolutie: werk van Newton.
 - Wet van zwaartekracht -> Basis mechanica
 - Differentiaal- en intergraalrekenen (ook door Leibniz)
 
-De wetten an Kepler en Galilei konden uit de wetten Newton afgeleid worden!
+De wetten an Kepler en Galilei konden uit de wetten van Newton afgeleid worden!
 
 ## De mechanisering van de fysica
 Natuur bij grieken (Aristotoles): Geheel van dingen die uit zichzelf een beweging of een proces van verandering op gang kunnen brengen.
@@ -159,7 +159,7 @@ Verschil tussen grieken en Revolutie
 # Inleiding: Wetenschappelijk redeneren
 ## Argumenten
 - __Bewerende zin__ is een zin die (on)waar is.
-- __Argument__ is een zin die bestaat uit een aantal bewerende zinnen. De __premissen__ en 1 __conclusie__
+- __Argument__ is een zin die bestaat uit een aantal bewerende zinnen. De __premissen__ en __1 conclusie__
 
 ## Deductie, inductie, abductie
 Logica is de studie van deductieve argumenten.
@@ -180,11 +180,11 @@ Dus Socrates is sterfelijk      Dus alle mensen zijn sterfelijk Dus Socrates is 
 ----------------------------------------------------------------------------------------------
 Table: Voorbeelden
 
-Naarmate er meer gevallen onderzocht worden is een de conclusie van een inductief argument sterker.
+Naarmate er meer gevallen onderzocht worden is de conclusie van een inductief argument sterker.
 
 Een argument is goed asa de conclusie meer waarschijnlijk is gegeven de premissen dan op zichzelf.
 
-__Abductie__ Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die beste verklaring biedt voor de waarheden zelf waar is.
+__Abductie__ Gegeven een aantal premissen & alternatieve verklaringen voor de premissen, concludeer dat de verklaring die de beste verklaring biedt voor de waarheden zelf waar is.
 
 Inductieve en abductieve argumenten zijn niet-deductief en dus niet logisch geldig
 
@@ -300,9 +300,9 @@ Existentiële generalisaties zijn niet (in het algemeen) direct falsifieerbaar.
 
 Universele generalisaties zijn niet (in het algemeen) direct verifieerbaar.
 
-Niet alle existentiële generalisaties zijn direct verifieerbaar en nit alle Universele generalisaties zijn directe falsifieerbaar. Een logsiche reden is dat ze genest kunnen zijn.
+Niet alle existentiële generalisaties zijn direct verifieerbaar en niet alle Universele generalisaties zijn direct falsifieerbaar. Een logsiche reden is dat ze genest kunnen zijn.
 
-- voor iedere $x$ is er een $y$: $\forall X\exists yR^2xy$
+- voor iedere $x$ is er een $y$: $\forall x \exists yR^2xy$
 
 ## Indirecte falsificatie en het Quine-Duhem probleem
 ### Hulphypothese en indirecte falsificatie
@@ -319,18 +319,18 @@ We willen uit een aantal observatiezinnen en een consistente verzameling hulphyp
 $$ (O_1 \wedge ... \wedge O_n \wedge A_1 \wedge ... \wedge A_m) \models \neg H $$
 Dan is de verzameling $\{O_1, ..., O_n, A_1, ... A_m, H\}$ inconsitent. Dus
 $$ \models \neg (O_1 \wedge ... \wedge O_n \wedge A_1 \wedge ... \wedge A_m \wedge H )$$
-Uit een van de wetten van de Morgan halen halen we dat
+Uit een van de wetten van de Morgan halen we dat
 $$ \models (\neg O_1 \vee ... \vee\neg O_n \vee\neg A_1 \vee ... \vee\neg A_m \vee\neg H )$$
-Waaruit we besluiten dat ofwel
+Waaruit we besluiten dat ofwel:
 
-- De hoofdhypothese is onwaar
+- de hoofdhypothese is onwaar
 - minstens een van de hulphypothese is onwaar
 - minstens een van de observatiezinnen is onwaar
 
 Men kan met logica niet bepalen waar de fout ligt.
 
 ### Ad hoc hypotheses
-Een hypothese is __ad hoc__ asa ze enkel en alleen naar voren geschoven wordt om bij de indirecte falsificatie van een hoofdhypothese te kunnen concluderen dat een van de hulphypothese fout is.
+Een hypothese is __ad hoc__ asa ze enkel en alleen naar voren geschoven wordt om bij de indirecte falsificatie van een hoofdhypothese te kunnen concluderen dat een van de hulphypotheses fout is.
 
 Voorbeeld: Flogiston
 
@@ -372,7 +372,7 @@ Geloof in het principe van uniformiteit op basis van een inductief argument is c
 - Tot nu toe was de natuur altijd uniform
 - Dus de natuur zal uniform blijven
 
-Dit is argument maakt ook gebruik van een uniformiteitsaanname.
+Dit argument maakt ook gebruik van een uniformiteitsaanname.
 
 ### Het nieuwe raadsel van Goodman
 
@@ -401,7 +401,7 @@ Enkele problemen met de hypothetisch-deductieve theorie van confirmatie.
 1. Stelt disconfirmatie gelijk aan falsificatie dus het Quine-Duhem probleem.
 2. Confirmatie spiegelt inductie dus problemen met inductie stellen zich voor.
  
-bv. Gruesome proobleem wordt geconfirmeerd met experiment in 2017.
+bv. Gruesome probleem wordt geconfirmeerd met experiment in 2017.
 
 __Corroboratie__ ipv confirmatie. Exacte hetzelfde maar andere interpretatie. Confirmatie wordt gezien als een reden om te geloven in een hypothese, corroboratie is neutraal.
 
@@ -410,7 +410,7 @@ __Corroboratie__ ipv confirmatie. Exacte hetzelfde maar andere interpretatie. Co
 ## Waarschijnlijkheid
 __Een theorie__ $T$ is een verzameling zinnen waarvoor elke zin $\phi, T \models \phi$ asa $\phi \in T$
 
-Een theorie $T$ is __axiomatiseerbaar__ als er een deelverzameling $\Delta \subset T$ bestaat zodat het beslisbaar is of een zin behoort tot $\Delta$ en dat $T = {\phi|\Delta \models \phi}$.
+Een theorie $T$ is __axiomatiseerbaar__ als er een deelverzameling $\Delta \subset T$ bestaat zodat het beslisbaar is of een zin behoort tot $\Delta$ en dat $T = \{\phi|\Delta \models \phi\}$.
 
 Als $\Delta$ eindig is spreken we van een eindig axiometiseerbare theorie.
 
@@ -421,7 +421,7 @@ __Conditionele waarschijnlijkheid__ $P(\psi) > 0 \Leftrightarrow P(\phi|\psi) = 
 
 Lees $P(\phi|\psi)$ als de kans van $\phi$ gegeven $\psi$
 
-__Bayens.__ $P(\phi|\psi) = P(\psi|\phi) \cdot \frac{P(\psi)}{P(\psi)}$ 
+__Bayes.__ $P(\phi|\psi) = P(\psi|\phi) \cdot \frac{P(\psi)}{P(\psi)}$ 
 
 __Conditionele waarschijnlijkheid en geldigheid__ Als $\phi \models \psi$ en $0 < P(\phi)$ dan $P(\psi|\phi) = 1$. 
 
@@ -432,8 +432,8 @@ Ook de frequentistische interpretatie.
 __Principe van onverschilligheid.__ Gegeven $n > 1$ mogelijk ware zinnen en
 
 - Geen zinnen zijn tegelijk waar.
-- 1 zin is moet waar zijn.
-- We hebben vooraf geen informatie over welke van de zinnen waar is.
+- 1 zin moet waar zijn.
+- We hebben vooraf geen informatie over welke van de zinnen waar zijn.
 
 De waarshijnlijkheid van elk van die zinnen is $\frac{1}{n}$.
 
@@ -456,7 +456,7 @@ Problemen met deze interpretatie zijn
 - Een persoon is niet altijd overtuigd van een logisch ware zin.
 - Personen kunnen afwijken van de theorie van Kolmogrov.
     - Bv. $P(\phi \wedge \psi) \leq P(\phi)$
-    - Maar soms geven personen de foute waarschijnlijkheid zie voorbeeld p. 93
+    - Maar soms geven personen de foute waarschijnlijkheid, zie voorbeeld p. 93
 
 ## De Bayesiaanse confirmatietheorie
 De __Bayensiaanse theorie__ heeft twee principes, de eerste werd in de vorige sectie besproken. 
@@ -498,14 +498,14 @@ Maar de redenering blijft aannemen dat de natuur uniform is.
 # Abductie en Verklaringen
 ## Verklaringen
 ### De deductief-nomologische theorie van verklaringen
-__De deductief-nomologische theorie van verklaringen.__ Een verklaring is en argument waarbij de premissen het _explanans_ vormen en de conclusie het _explanandum_ en
+__De deductief-nomologische theorie van verklaringen.__ Een verklaring is een argument waarbij de premissen het _explanans_ vormen en de conclusie het _explanandum_ en
 
-- Het argument is correct
+- het argument is correct
 - ten minste een van de premissen moet een algemene wet zijn en die premisse moet essentieel zijn.
 
 __Nomologisch.__ Gebruik makend van wetten.
 
-__Elliptische verklaring.__ Niet alle relevante wetten worden en feiten worden aangehaald. Dus niet nomologisch.
+__Elliptische verklaring.__ Niet alle relevante wetten en feiten worden aangehaald. Dus niet nomologisch.
 
 __Partiële verklaring.__ Een verklaring van een breder fenomeen. Dus geen deductief argument voor het explanandum.
 
@@ -549,9 +549,9 @@ bv. Een man die de pil neemt wordt niet zwanger. Is de pil hiervoor de oorzaak?
 ### Verklaringen en verschilmakers
 __Probabilistische relevantie.__ Zin $\theta$ is probabilistisch relevant voor een zin $\phi$ tov een zin $\psi$ asa $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$.
 
-Probabilistische relevantie help ons het probleem van irrelevantie op te lossen.
+Probabilistische relevantie helpt ons het probleem van irrelevantie op te lossen.
 
-De probabilistisch relevant is symmetrisch en biedt dus geen oplossing voor het probleem van de symmetrie.
+De probabilistisch relevantie is symmetrisch en biedt dus geen oplossing voor het probleem van de symmetrie.
 
 Symmetrie van pr: $P(\phi|(\psi \wedge \theta)) \neq P(\phi|\theta)$, dan $P(\theta|(\psi \wedge \phi)) \neq P(\theta|\phi)$
 
@@ -566,15 +566,15 @@ Dit is de regulariteitsanalyse van causaliteit.
 
 > (Or in other words) where, if the first object had not been, the second never had existed.
 
-Dit noemen we de __causale afhankelijkheid.__ Deze wordt gebruikt om het probleem van relevantie aan e pakken.
+Dit noemen we de __causale afhankelijkheid.__ Deze wordt gebruikt om het probleem van relevantie aan te pakken.
 
 __Indicatieve voorwaardelijke zin__ is in de vorm: Als $\phi$ het geval is, dan is $\psi$ het geval.
 
-__Tegengeitelijke voorwaardelijke zin__ is in de vorm: Als $\phi$ het geval geweest was, dan zou $\psi$ het geval geweest zijn.
+__Tegenfeitelijke voorwaardelijke zin__ is in de vorm: Als $\phi$ het geval geweest was, dan zou $\psi$ het geval geweest zijn.
 
 De regulariteitsvoorwaarde kan uitgedrukt worden als een indicatieve voorwaardelijke zin.
 
-De causale afhankelijkheid wodt geformuleerd met met behulp van een tegenfeitelijke voorwaardelijke zin.
+De causale afhankelijkheid wodt geformuleerd met behulp van een tegenfeitelijke voorwaardelijke zin.
 
 __Causale afhankelijkheid.__ Als C en E twee verschillende gebeurtenissen zijn dan is E causaal afhankelijk van C asa
 
@@ -695,13 +695,13 @@ Evolutie van wetenschap volgens Kuhn:
     - scholenstrijd
 #. Paradigmatische fase
     - Er is een paradigma die de wetenschapspraktijk beheerst. Een paradigma bestaat uit
-    - Wetten en theorieën
-    - metafysica
-    - waarden
-    - technieken
-    - paradigma's in de enge zin
+       * Wetten en theorieën
+       * metafysica
+       * waarden
+       * technieken
+       * paradigma's in de enge zin
 #. Anomalie en crisis
-    - Paradigmatische wetenschap wet haar eigen ondergang in gang
+    - Paradigmatische wetenschap zet haar eigen ondergang in gang
     - Er duiken weerbarstige puzzels of anomalieën op
     - Nieuwe radicale theorieën
     - Grondslagonderzoek
@@ -799,19 +799,4 @@ Hilbert stelde namelijk voor oom een beperkte set axioma's te nemen waarvan we k
 
 ### What's next?
 _In dit deel spreekt de schrijver over de verder inhoud van het boek, dit is niet relevant._
-
-## Module: de onvolledigheidsstellingen van Gödel
-Samenvatting los gebaseerd op de slides van Prof. Jan Heylen.
-
-### Optimisme
-> "In mathematics there is no ignorabimus "
-> [In wiskunde is er geen ‘we zullen het niet weten’]
-
-Het axiomatiseringsproject, alle wiskundige theorieën axiometiseren. Men wil een formele wiskundige taal om alles in te bewijzen.
-
-### Pessimisme
-
-__Eerst onvolledigheidsstellingen.__ Geen enkele axiometiseerbare extensie van de minimale rekenkunde is volledig.
-
-Dus er kan geen 1 theorie zijn die alles bewijst.
 
